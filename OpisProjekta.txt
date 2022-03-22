@@ -1,0 +1,32 @@
+Ova aplikacija namenjena je porodicama koje se bave poljoprivredom 
+i zele da unutar porodice imaju vise registrovanih gazdinstva radi boljeg profita od strane drzave, 
+odnosno veci broj subvencija koje daje drzava kao pomoc mladim ljudima koji se opredeljuju da ostanu na selu.
+
+Aplikacija je zamisljena tako da sam korisnik(porodica) moze kreirati nova gazdinstva koliko god zeli, 
+takodje moze i upravljati njima.
+
+Mogucnosti prilikom upravljanja:
+    - Potpuno brisanje gazdinstva
+    - Dodavanje, brisanje i izmena informacija o gazdinstvu
+
+Informacije koje poseduje gazdinstvo:
+    - Registracioni broj
+    - Status
+    - Naziv
+    - Adresu
+    - BrojVlasnika
+    - Vlasnike
+    - Radnike
+    - Vozila/mehanizacije
+    - Kojim vozilima/mehanizacijama svaki radnik moze upravljati
+    - Parcele
+
+Vlasnike, Radnike, Vozila/mehanizacije, kojim vozilima/mehanizacijama svaki radnik moze upravljati, 
+Parcele mozemo dodavati i brisati.
+
+Clan porodice moze posedovati vise gazdinstva.
+
+Moze se menjati status gazdinstva u - aktivno/stecaj.
+Kada je gazdinstvo u stecaju nije moguce kupovati parcele, vozila/mehanizacije 
+a tokodje ni zaposljavati radnike.
+
